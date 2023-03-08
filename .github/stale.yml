@@ -1,0 +1,24 @@
+# Configuracion para probot-stale - https://github.com/probot/stale
+
+# Numero de dias de inactividad antes de marcar una issue como 'stale' ("inactiva")
+daysUntilStale: 7
+
+# Numero de dias de inactividad antes de que una issue marcada como 'stale' ("inactiva") sea cerrada
+daysUntilClose: 7
+
+# Issues con estas labels (etiquetas) no seran consideradas como 'stale' ("inactivas")
+exemptLabels:
+  - "IMPORTANTE"
+  - "Tarea 0"
+  - "Tarea 1"
+  - "Tarea 2"
+  - "Tarea 3"
+
+# Label (etiquta) a usar cuando se marque una issue como 'stale' ("inactiva")
+staleLabel: inactiva
+
+# Comentario a publicar cuando se marque una issue como 'stale' ("inactiva"). Si es falso, no se comenta
+markComment: false
+
+# Limitar acciones solo a issues
+only: issues
