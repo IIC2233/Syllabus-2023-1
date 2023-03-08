@@ -63,14 +63,14 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 
 ### Coordinación
 
-| Nombre          | Área                    | Github                  |
-|-----------------|-------------------------|-------------------------|
-| Juan Pablo Sáez | Coordinador curso       | @Juampisaez             |
-| Trinidad Balart | Coordinadora Bienestar  | @Tsbalart               |
-| Camila González | Coordinadora Docencia   | @camilagonzalezp        |
-| Matías Masjuan  | Coordinador Tareas      | @matiasmasjuan          |
-| Juan Pablo Saez | Jefe Docencia           | @CristobalPerez-Cotapos |
-| Camila González | Jefa Tareas             | @gecoli                 | 
+| Nombre                  | Área                    | Github                  |
+|-----------------        |-------------------------|-------------------------|
+| Juan Pablo Sáez         | Coordinador Curso       | @Juampisaez             |
+| Trinidad Balart         | Coordinadora Bienestar  | @Tsbalart               |
+| Camila González         | Coordinadora Docencia   | @camilagonzalezp        |
+| Matías Masjuan          | Coordinador Tareas      | @matiasmasjuan          |
+| Cristóbal Pérez-Cotapos | Jefe Docencia           | @CristobalPerez-Cotapos |
+| Geraldine Coli          | Jefa Tareas             | @gecoli                 | 
 
 ### Ayudantes
 
