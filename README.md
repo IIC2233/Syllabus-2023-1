@@ -28,7 +28,7 @@
     - **A** debe ser mayor o igual a 10
     - **T** debe ser mayor o igual a 3,950
 
-4. Si el alumno cumple con las condiciones nombradas en el punto 2, **y responde 10 o más ECA**, entonces la nota final se calculará como **NF = NC + 1**. En caso de que no se cumpla con algún requisito del punto 2, **NF = min(3,9; NC)**
+4. Si el alumno cumple con las condiciones nombradas en el punto 2, **y responde 10 o más ECA**, entonces la nota final se calculará como **NF = NC + 0,1**. En caso de que no se cumpla con algún requisito del punto 2, **NF = min(3,9; NC)**
 
 5. La inasistencia a alguna de las evaluaciones (actividades sumativas) se evalúa con nota 1,0.
 
