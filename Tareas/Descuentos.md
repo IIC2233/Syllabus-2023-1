@@ -11,6 +11,7 @@ Donde:
 * [`desdescuento`](#des-descuento-hasta-5-décimas-tada) es el desdescuento aplicado por entregar un buen README, que busca fomentar una buena documentación de código.
 * [`descuento_por_usar_algo_prohibido`](#librerías-o-built-ins-prohibidos) es el descuento asociado a utilizar alguna librería o `Built-in` no autorizado.
 
+
 ***
 
 ## Descuentos Misceláneos

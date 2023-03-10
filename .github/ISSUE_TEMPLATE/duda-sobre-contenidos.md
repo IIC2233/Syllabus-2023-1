@@ -14,7 +14,7 @@ assignees: ''
 
 * [ ] Leí las reglas del foro (https://github.com/IIC2233/syllabus/issues/8).
 * [ ] Busqué en las *issues* si ya preguntaron mi duda y no encontré nada parecido (https://github.com/IIC2233/syllabus/issues).
-* [ ] Mi duda no se trata de un tema administrativo o personal, ya que en ese caso debo contactar a mi profe, al Ayudante de Bienestar o al correo del curso (iic2233@ing.puc.cl).
+* [ ] Mi duda no se trata de un tema administrativo o personal, ya que en ese caso debo contactar a mi profe, al ayudante de Bienestar o al correo del curso (iic2233@ing.puc.cl).
 * [ ] Utilizaré un título descriptivo y llenaré correctamente esta plantilla.
 * [ ] De ser necesario, colocaré código simple que permita explicar mi problema o duda.
 
