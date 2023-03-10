@@ -4,12 +4,11 @@ Al momento de corregir una tarea, es posible que se apliquen penalizaciones sobr
 
 Los descuentos finales aplicados sobre una tarea se calcularán de la siguiente forma:
 
-#### <center>`max(mín(descuentos_miscelaneos, 10) - desdescuento, 0) + descuento_por_entrega_atrasada + descuento_por_usar_algo_prohibido`</center>
+#### <center>`max(mín(descuentos_miscelaneos, 10) - desdescuento, 0) + descuento_por_usar_algo_prohibido`</center>
 
 Donde:
 * [`descuentos_miscelaneos`](#Descuentos-Misceláneos) es la suma entre los descuento de PEP8, Readme, Modularización, Formato de entrega, Uso de `.gitignore` y descuentos adicionales. (Los demás descuentos que no son por atraso, ni uso de elementos prohibidos)
 * [`desdescuento`](#des-descuento-hasta-5-décimas-tada) es el desdescuento aplicado por entregar un buen README, que busca fomentar una buena documentación de código.
-* [`descuento_por_entrega_atrasada`](#entrega-atrasada-entre-5-20-décimas-watch) es el descuento por entregar después del plazo indicado en el enunciado.
 * [`descuento_por_usar_algo_prohibido`](#librerías-o-built-ins-prohibidos) es el descuento asociado a utilizar alguna librería o `Built-in` no autorizado.
 
 ***
@@ -89,12 +88,6 @@ Puedes restar máximo 5 décimas de tus descuentos, las condiciones para restar 
 Finalmente, la cantidad de décimas restadas queda a criterio del ayudante.
 
 ***
-
-## Entrega atrasada (entre 5-20 décimas) :watch:
-
-Si se entrega la tarea atrasada se tendrá un descuento **inicial** de 5 décimas hasta un descuento de 20 décimas a las 24hrs de atraso del plazo establecido de manera lineal, con la fórmula:
-
-### <center>5 + 15t/24</center>
 
 Donde `t` está en horas (es una función **continua** y no discreta) y no se permiten entregas pasadas las 24 hrs de la hora inicial de entrega.
 
