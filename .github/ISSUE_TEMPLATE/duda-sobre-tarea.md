@@ -12,7 +12,7 @@ assignees: ''
 ### Prerrequisitos
 (Marcar colocando una X entre los corchetes los ítems que ya hiciste, así: "[X]")
 
-* [ ] Leí las reglas del foro (https://github.com/IIC2233/syllabus/issues/8).
+* [ ] Leí las reglas del foro (https://github.com/IIC2233/Syllabus/wiki/8.-Reglas-del-foro-(issues)).
 * [ ] Busqué en las *issues* si ya preguntaron mi duda y no encontré nada parecido (https://github.com/IIC2233/syllabus/issues/).
 * [ ] Revisé el compilado de dudas de la tarea y no encontré una *issue* similar a la mía (https://github.com/IIC2233/syllabus/issues/20).
 * [ ] Mi duda no se trata sobre una librería, *built-in* o mala práctica, ya que eso se pregunta en la *issue* creada para ello (https://github.com/IIC2233/syllabus/issues/21).
