@@ -1,0 +1,46 @@
+{
+    "nombre_carpeta": "UC",
+    "subcarpeta_1": {
+        "nombre_carpeta": "semestre 1",
+        "subcarpeta_1": {
+            "nombre_carpeta": "IIC2233",
+            "subcarpeta_1": null,
+            "subcarpeta_2": null,
+            "archivo": {
+                "nombre": "main.py",
+                "peso": "1.12",
+                "protegido": true
+            }
+        },
+        "subcarpeta_2": {
+            "nombre_carpeta": "IIC2026",
+            "subcarpeta_1": null,
+            "subcarpeta_2": null,
+            "archivo": {
+                "nombre": "d3.js",
+                "peso": "8.51",
+                "protegido": true
+            }
+        },
+        "archivo": {
+            "nombre": "apuntes.pdf",
+            "peso": "100.36",
+            "protegido": true
+        }
+    },
+    "subcarpeta_2": {
+        "nombre_carpeta": "semestre 2",
+        "subcarpeta_1": null,
+        "subcarpeta_2": null,
+        "archivo": {
+            "nombre": "notas.secretas.no.mostrar.txt",
+            "peso": "20.41",
+            "protegido": false
+        }
+    },
+    "archivo": {
+        "nombre": "notas.txt",
+        "peso": "40.16",
+        "protegido": true
+    }
+}
