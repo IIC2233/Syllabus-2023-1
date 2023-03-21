@@ -4,11 +4,10 @@ Al momento de corregir una tarea, es posible que se apliquen penalizaciones sobr
 
 Los descuentos finales aplicados sobre una tarea se calcularán de la siguiente forma:
 
-#### <center>`max(mín(descuentos_miscelaneos, 10) - desdescuento, 0) + descuento_por_usar_algo_prohibido`</center>
+#### <center>`mín(descuentos_miscelaneos, 10) + descuento_por_usar_algo_prohibido`</center>
 
 Donde:
 * [`descuentos_miscelaneos`](#Descuentos-Misceláneos) es la suma entre los descuento de PEP8, Readme, Modularización, Formato de entrega, Uso de `.gitignore` y descuentos adicionales. (Los demás descuentos que no son por atraso, ni uso de elementos prohibidos)
-* [`desdescuento`](#des-descuento-hasta-5-décimas-tada) es el desdescuento aplicado por entregar un buen README, que busca fomentar una buena documentación de código.
 * [`descuento_por_usar_algo_prohibido`](#librerías-o-built-ins-prohibidos) es el descuento asociado a utilizar alguna librería o `Built-in` no autorizado.
 
 
@@ -24,8 +23,9 @@ De los cuales sólo se verificarán:
 2. Uso de variables declarativas y aclarativas.
 3. Uso adecuado de CamelCase y snake_case.
 4. Espacio después de la coma (",").
-5. Uso de espacios para indentación y **no** de tabulaciones. 
-6. Utilizar correctamente los `import` (no hacer `import *`). Para más información de cómo importar archivos revisar [los contenido del curso](https://github.com/IIC2233/contenidos/blob/master/semana-00/2-modularizaci%C3%B3n.ipynb).
+5. Uso de espacios para indentación y **no** de tabulaciones.
+6. Uso de varuables globales. 
+7. Utilizar correctamente los `import` (no hacer `import *`). Para más información de cómo importar archivos revisar [los contenido del curso](https://github.com/IIC2233/contenidos/blob/master/semana-00/2-modularizaci%C3%B3n.ipynb).
 
 La cantidad de décimas a descontar será la siguiente (acorde a lo establecido arriba):
 - **2 décimas** si no se cumple _sólo_ 1
@@ -34,9 +34,14 @@ La cantidad de décimas a descontar será la siguiente (acorde a lo establecido 
 
 La búsqueda de estos tipos de errores tampoco debe ser una búsqueda exhaustiva, pero es altamente probable que los _linters_ se los muestren. Si sólo ven _un_ error de algún tipo siendo que en el resto de los casos no ocurre, entonces se puede perdonar.
 
-## README (1 décima) :page_facing_up: 
+## README (5 décimas) :page_facing_up: 
 
-Si no se indica(n) los archivos principales que son necesarios para ejecutar la tarea o su ubicación dentro de su carpeta se hará este descuento.
+El _README.md_ es el archivo de texto escrito que se entrega junto a la tarea con el objetivo de explicar la tarea que realizaron y facilitar la corrección del ayudante. Se **recomienda fuertemente** ir completando este archivo a medida que se desarrolla la tarea. De este modo, se asegura la creación de un buen y completo _README.md_.
+
+La cantidad de décimas a descontar se evalúa según los siguientes criterios:
+
+- **1 décima** Si no se indica(n) los archivos principales que son necesarios para ejecutar la tarea o su ubicación dentro de su carpeta se hará este descuento.
+- **Hasta 4 décimas** si el _README.md_ no incluye aspectos implementados y no implementados, o bien cualquier información relevante para la corrección.
 
 
 ## Modularización (5 décimas) :package: 
@@ -65,32 +70,11 @@ Este descuento sólo se aplica si en el enunciado de la tarea se especifica que 
 - **Importante:** el `.gitignore` debe estar dentro de la carpeta (T01/, T02/ o T03/), no se aceptará que lo pongan en otra parte aunque funcione.
 
 ## Cambio de líneas (hasta 5 décimas) :arrows_counterclockwise:
-Por tarea, se permite cambiar **hasta** 20 líneas de código. Por cada línea del que cambien de su código se les aplicará un descuento según la siguiente fórmula:
+Por tarea, se permite cambiar **hasta** 20 líneas de código. Esta solicitud de cambio **solamente** se puede realizar mediante el mismo _README_ o bien en el **formulario de recorrección** de la tarea. Por cada línea del que cambien de su código se les aplicará un descuento según la siguiente fórmula:
 
 ### <center>`techo(c_lineas/4)`</center>
 
 Donde `c_lineas` es la cantidad de líneas cambiadas.
-
-## Adicionales (hasta 5 décimas) :information_source:
-Dependiendo de cómo esté hecha la tarea, el ayudante se puede topar con múltiples inconvenientes que impidan la corrección de la tarea o le dificulten en gran medida la revisión de esta. Es por esto que puede aplicar el descuento que considere apropiado para la situación en la que se encuentre de ser justificado.
-
-## Malas prácticas (5 décimas) :x:
-Si se encuentran malas prácticas en el código de la tarea, como el uso de variables globales, será penalizado. Cualquier duda con este descuento, haga una _issue_.
-
-***
-
-## Des-descuento (hasta 5 décimas) :tada:
-
-Puedes restar máximo 5 décimas de tus descuentos, las condiciones para restar estas décimas de descuento es entregar un _README.md_ que cumpla con:
-* Explicitar cada ítem de la distribución del puntaje que no fueron implementados.
-* Explicitar posibles errores y su solución.
-* Especificar el archivo y línea donde se puede encontrar cada ítem de la distribución del puntaje que puede ser evaluado mediante la lectura de código.
-
-Finalmente, la cantidad de décimas restadas queda a criterio del ayudante.
-
-***
-
-Donde `t` está en horas (es una función **continua** y no discreta) y no se permiten entregas pasadas las 24 hrs de la hora inicial de entrega.
 
 ***
 
