@@ -27,7 +27,7 @@ def solucionar_tablero(tablero: list) -> list:
 
 if __name__ == "__main__":
     tablero_2x2 = [
-        ['-', 2],
+        ['-', '2'],
         ['-', '-']
     ]
     resultado = verificar_valor_bombas(tablero_2x2)
@@ -40,11 +40,11 @@ if __name__ == "__main__":
     print(tablero_resuelto)
 
     tablero_2x2_sol = [
-        ['T', 2],
+        ['T', '2'],
         ['-', '-']
     ]
 
-    resultado = verificar_alcance_bomba(tablero_2x2, (0, 1))
+    resultado = verificar_alcance_bomba(tablero_2x2_sol, (0, 1))
     print(resultado)  # Debería ser 2
 
     resultado = verificar_tortugas(tablero_2x2_sol)
