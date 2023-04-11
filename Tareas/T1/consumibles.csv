@@ -1,0 +1,26 @@
+﻿nombre,descripcion,energia,fuerza,suerte,felicidad
+Completo,Otorga +20 energía / +5 fuerza / +10 felicidad.,20,5,0,10
+Desloratadina,Otorga +8 energía / -2 fuerza / +6 felicidad.,8,-2,0,6
+Helado,Otorga +30 energía / +5 fuerza / +1 suerte / +8 felicidad.,30,5,1,8
+Pala de hierro,Otorga +10 energía / +5 fuerza / +1 felicidad.,10,10,0,1
+Pizza Pequeño César,Otorga +40 energía / +3 fuerza / +6 felicidad.,40,3,0,6
+Comida rancia,Otorga -20 energía / -10 fuerza / -10 felicidad.,-20,-10,0,-10
+Botella,Otorga +30 energía / +5 fuerza / +2 suerte / +10 felicidad.,30,5,2,10
+Jarabe,Otorga +10 energía / +6 fuerza / +1 suerte / -3 felicidad.,10,6,1,-3
+Chamito,Otorga +20 energía / +10 fuerza / +1 felicidad.,20,10,0,1
+Cartón de título,Otorga +10 energía / +3 fuerza / +2 suerte / +10 felicidad.,10,3,2,10
+Bebida energética,Otorga +80 energía / +3 fuerza / +2 suerte / +1 felicidad.,80,3,2,1
+Fajitas,Otorga +20 energía / +5 fuerza / +5 felicidad.,20,5,0,5
+Duende mágico,Otorga +10 energía / -1 fuerza / +7 suerte / -2 felicidad.,10,-1,7,-2
+Sopa de caracol,Otorga +25 energía / +4 fuerza / +4 felicidad.,25,4,0,4
+Completo mojado,Otorga +40 energía / +6 fuerza / +4 felicidad.,40,2,0,4
+Comida fungosa,Otorga -80 energía / -7 fuerza / -5 suerte / -10 felicidad.,-80,-7,-5,-10
+Pócima de energía,Otorga +100 energía.,100,0,0,0
+Empanada,Otorga +30 energía / +5 fuerza / +2 felicidad.,30,5,0,2
+Quetiapina,Otorga +50 energía / +1 suerte / +5 felicidad.,40,0,1,5
+Hamburguesa de lentejas,Otorga +15 energía / +5 fuerza / +5 felicidad.,15,5,0,5
+Veneno,Otorga -100 energía / -10 fuerza / -10 suerte / -10 felicidad.,-100,-10,-10,-10
+Entradas concierto,Otorga +60 energía / +3 fuerza / +3 suerte / +10 felicidad.,60,3,3,10
+Mojito,Otorga +10 energía / -3 fuerza / +6 suerte / +2 felicidad.,10,-3,6,2
+Comida vibracional,Otorga +100 energía / +10 fuerza / +10 suerte / +10 felicidad.,100,10,10,10
+Pala de diamante,Otorga +30 energía / +10 fuerza.,30,10,0,0
