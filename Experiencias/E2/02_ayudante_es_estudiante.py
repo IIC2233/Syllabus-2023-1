@@ -1,6 +1,3 @@
-""" Modelación 1.3, todos son personas y los ayudantes son estudiantes """
-
-
 from random import choice
 
 

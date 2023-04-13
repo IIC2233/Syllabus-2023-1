@@ -1,6 +1,3 @@
-""" Modelación inicial, sin usar herencia """
-
-
 from random import choice
 
 
