@@ -2,7 +2,6 @@ from PyQt5.QtCore import QObject, pyqtSignal
 
 
 class ControladorLogico(QObject):
-
     senal_volumen = pyqtSignal(int)
     senal_canal = pyqtSignal(int)
     senal_encendido = pyqtSignal(bool)
@@ -39,16 +38,16 @@ class ControladorLogico(QObject):
         self._canal = valor
 
     def cambiar_volumen(self, cambio):
-        if cambio == '+':
+        if cambio == "+":
             self.volumen += 10
-        elif cambio == '-':
+        elif cambio == "-":
             self.volumen -= 10
         self.actualizar_volumen()
 
     def cambiar_canal(self, cambio):
-        if cambio == '+':
+        if cambio == "+":
             self.canal += 1
-        elif cambio == '-':
+        elif cambio == "-":
             self.canal -= 1
         else:
             self.canal = int(cambio)

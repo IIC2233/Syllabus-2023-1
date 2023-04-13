@@ -1,13 +1,17 @@
 import sys
 from PyQt5.QtCore import pyqtSignal, Qt
 from PyQt5.QtWidgets import (
-    QApplication, QWidget, QLabel, QPushButton,
-    QHBoxLayout, QVBoxLayout, QGridLayout,
+    QApplication,
+    QWidget,
+    QLabel,
+    QPushButton,
+    QHBoxLayout,
+    QVBoxLayout,
+    QGridLayout,
 )
 
 
 class VentanaControlRemoto(QWidget):
-
     senal_volumen = pyqtSignal(str)
     senal_canal = pyqtSignal(str)
     senal_encendido = pyqtSignal()
@@ -22,26 +26,23 @@ class VentanaControlRemoto(QWidget):
         # self.agregar_estilo()
         # self.conectar_bonotes()
 
-        self.setWindowTitle('Control remoto')
+        self.setWindowTitle("Control remoto")
         self.move(800, 100)
 
     def generar_botones(self):
         # Botón encendido/apagado
-        self.on_off = None # COMPLETAR
+        self.on_off = None  # COMPLETAR
 
         # Botones de volumen
-        self.volumen = [
-            QPushButton('+', self),
-            QPushButton('-', self)
-        ]
+        self.volumen = [QPushButton("+", self), QPushButton("-", self)]
 
         # Botones de canales
         self.canales = [
-            QPushButton('+', self),
-            QPushButton('-', self),
+            QPushButton("+", self),
+            QPushButton("-", self),
         ]
 
-        # Botones de números  
+        # Botones de números
         self.numeros = []
         # COMPLETAR
 
@@ -52,7 +53,7 @@ class VentanaControlRemoto(QWidget):
         # Generamos un layout para los botones centrales
         hbox = QHBoxLayout()
         # COMPLETAR
-        
+
         # Agregamos los botones al layout principal
         vbox.addWidget(self.on_off)
         vbox.addStretch()
@@ -89,13 +90,17 @@ class VentanaControlRemoto(QWidget):
 
     def agregar_estilo(self):
         # Aplicamos estilo a los elementos
-        self.setStyleSheet('''
+        self.setStyleSheet(
+            """
             background: #2e2d2b;
             color:white;
-        ''')
-        self.on_off.setStyleSheet('''
+        """
+        )
+        self.on_off.setStyleSheet(
+            """
             background: red;
-        ''')
+        """
+        )
 
         # Ajustamos el tamaño de los botones
         for boton in (*self.volumen, *self.canales, *self.numeros):
@@ -120,17 +125,17 @@ class VentanaControlRemoto(QWidget):
     def actualizar_canal(self):
         # COMPLETAR
         pass
-        
+
     def actualizar_volumen(self):
         # COMPLETAR
         pass
-        
+
     def prender_apagar(self, encendido):
         # COMPLETAR
         pass
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app = QApplication([])
     ventana = VentanaControlRemoto()
     ventana.show()

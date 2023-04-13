@@ -6,7 +6,6 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QProgressBar
 
 
 class VentanaPantalla(QWidget):
-
     def __init__(self):
         super().__init__()
         self.inicializa_gui()
@@ -15,20 +14,20 @@ class VentanaPantalla(QWidget):
         self.posicion = (100, 100)
         self.porte = (640, 360)
         self.setGeometry(*self.posicion, *self.porte)
-        self.setWindowTitle('Pantalla')
+        self.setWindowTitle("Pantalla")
 
         self.generar_widgets()
         self.agregar_estilo()
 
     def generar_widgets(self):
         # Generamos y posicionamos los distintos widgets
-        self.imagen = QLabel('', self)
+        self.imagen = QLabel("", self)
         self.imagen.setGeometry(0, 0, *self.porte)
 
-        self.canal = QLabel('Canal: #0', self)
+        self.canal = QLabel("Canal: #0", self)
         self.canal.move(20, 20)
 
-        self.volumen = QLabel('Volumen: 0', self)
+        self.volumen = QLabel("Volumen: 0", self)
         self.volumen.move(20, self.porte[1] - 30)
 
         self.volumen_barra = QProgressBar(self, textVisible=False)
@@ -37,29 +36,42 @@ class VentanaPantalla(QWidget):
 
     def agregar_estilo(self):
         # Agregamos un poco de estilo a los labels
-        self.canal.setStyleSheet('''
+        self.canal.setStyleSheet(
+            """
             color: white;
             background: black;
-        ''')
-        self.volumen.setStyleSheet('''
+        """
+        )
+        self.volumen.setStyleSheet(
+            """
             color: white;
             background: black;
-        ''')
+        """
+        )
 
     def actualizar_volumen(self, nuevo_volumen):
-        # Cambiamos el texto 
-        # COMPLETAR
+        # Cambiamos el texto
+        self.volumen.setText("Volumen: " + str(nuevo_volumen))
+        self.volumen.resize(self.volumen.sizeHint())
 
         # Actualizamos la barra
         self.volumen_barra.setValue(nuevo_volumen)
 
     def actualizar_canal(self, nuevo_canal):
+        print("Soy el pantalla y mi nuevo canal es..")
         # Actualizamos el texto
-        # COMPLETAR
+        self.canal.setText("Canal: " + str(nuevo_canal))
+        self.canal.resize(self.canal.sizeHint())
 
         # Cargamos, rescalamos y cambiamos la imagen
-        # COMPLETAR
-        pass
+        # 1. Cargar la imagen
+        path = f"frontend/assets/{nuevo_canal}.png"
+        imagen = QPixmap(path)
+        # 2. Ajustar imagen al tamaño de la ventana (rescalamos)
+        imagen = imagen.scaled(*self.porte, Qt.KeepAspectRatioByExpanding)
+
+        # 3. Actualizar label con la imagen
+        self.imagen.setPixmap(imagen)
 
     def prender_apagar(self, encendido):
         if encendido:
@@ -68,7 +80,7 @@ class VentanaPantalla(QWidget):
             self.hide()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app = QApplication([])
     ventana = VentanaPantalla()
     ventana.show()
