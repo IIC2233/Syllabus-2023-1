@@ -1,8 +1,8 @@
 ---
 name: Duda sobre contenidos
 about: Duda relacionada con los contenidos del curso
-title: Título descriptivo (reemplazar con el título apropiado)
-labels: ''
+title: ''
+labels: Contenidos
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
 name: Problemas de setup
 about: Problemas de instalación o configuración de software obligatorio
-title: Título descriptivo (reemplazar con el título apropiado)
-labels: ''
+title: ''
+labels: Setup
 assignees: ''
 
 ---

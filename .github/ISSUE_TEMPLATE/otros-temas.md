@@ -1,7 +1,7 @@
 ---
 name: Otros temas
 about: Si no encuentras una plantilla apropiada, utiliza esta
-title: Título descriptivo (reemplazar con el título apropiado)
+title: ''
 labels: ''
 assignees: ''
 
