@@ -25,3 +25,5 @@
 2. Un cupón sólo elimina la penalización de un día de atraso, **no extiende el plazo de entrega**.
 
 3. En caso de que utilicen sólo un cupón, podrán trabajar hasta las 20:00 hrs del día límite, pero con la penalización correspondiente a sólo un día de atraso, mientras que si deciden utilizar ambos, podrán trabajar hasta el mismo día límite, pero sin penalización.
+
+4. En caso que no tengan cupones o tengan menos de los indicados en la respuesta del formulario, se considerará el valor que aparezca en el registro público de cupones.
