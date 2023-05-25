@@ -1,129 +1,129 @@
 # Seccion 1
 
-| Puesto | Github             | Nombre(s)              | Apellido Paterno | Apellido Materno |
-|--------|--------------------|------------------------|------------------|------------------|
+| Puesto | Github                  | Nombre(s)              | Apellido Paterno | Apellido Materno |
+|--------|-------------------------|------------------------|------------------|------------------|
 | 1A       | CCancinoB               | CRISTÓBAL EDUARDO      | CANCINO            | BACOVIC            |
 | 1B       | IsidoraGuinez           | ISIDORA LEONOR ESTER   | GUÍÑEZ             | MAULÉN             |
-| 1C       | czsanchez               | CAMILA CONSTANZA       | SÁNCHEZ            | SAAVEDRA           |
-| 1D       | yisidoramolina          | ISIDORA CONSTANZA      | MOLINA             | BRIONES            |
-| 1E       | constanzarojasch        | CONSTANZA SOFÍA        | ROJAS              | CHAPARRO           |
-| 1F       | alecamposleyton         | ALEJANDRA PATRICIA     | CAMPOS             | LEYTON             |
-| 1G       | terecarvallo            | MARÍA TERESA           | CARVALLO           | VALENZUELA         |
-| 1H       | sofiafuentess           | SOFÍA CONSTANZA        | FUENTES            | FIGUEROA           |
-| 1I       | dgarciam9               | DIEGO JAVIER           | GARCÍA             | MATTE              |
-| 1J       | katerinareyes           | KATERINA PAZ ANDREA    | REYES              | SALAS              |
-| 1K       | vicentefosk             | VICENTE                | FOSK               | SAUER              |
-| 1L       | Vguinez                 | VICENTE ANTONIO        | GUÍÑEZ             | ESCOBAR            |
-| 1M       | TwoB-2B                 | BASTIAN IGNACIO        | BAEZ               | OSES               |
-| 1N       | Gper23                  | GUILAD                 | PERERA             | CARO               |
-| 1O       | lucascovav              | LUCAS ANDRÉS           | COVARRUBIAS        | VARGAS             |
-| 1P       | topc01                  | TOMÁS                  | PFINGSTHORN        | CUEVAS             |
-| 2A       | antsalieri              | ÁLVARO EMILIO          | MELLA              | ARAYA              |
-| 2B       | FranciscoCastroZ        | FRANCISCO JAVIER       | CASTRO             | ZÁRATE             |
-| 2C       | michebordoni            | MICHELA PATRICIA       | BORDONI            | GALLEGUILLOS       |
-| 2D       | JaimeUC                 | JAIME GABRIEL BENJAMIN | SAMSÓ              | TOGNOLA            |
-| 2E       | Gcamposbriceno          | GABRIEL LUIS           | CAMPOS             | BRICEÑO            |
-| 2F       | dgcaracci               | DIEGO GERMÁN           | CARACCI            | SILVA              |
-| 2G       | Angel-Ros               | LUIS ANGEL             | ROSALES            | CUEVAS             |
-| 2H       | msanchezk               | MARTINA BÁRBARA ANGELA | SÁNCHEZ            | KANNEGIESSER       |
-| 2I       | BenJofre27              | BENJAMÍN ANDRÉS        | JOFRÉ              | FLORES             |
-| 2J       | Niickkoo                | NICOLÁS IGNACIO        | CARMONA            | CARVAJAL           |
-| 2K       | ignaciolaval            | IGNACIO BENJAMÍN       | LAVAL              | ROMÁN              |
-| 2L       | MumoCrack               | RAIMUNDO JOSÉ          | VIAL               | CRUZ               |
-| 2M       | edupavez                | EDUARDO IVÁN ENRIQUE   | PAVEZ              | ASPE               |
-| 2N       | scisternast             | SOFÍA                  | CISTERNAS          | TAMARGO            |
-| 2O       | rocimarquez             | ROCÍO ANTONIA          | MÁRQUEZ            | CORREA             |
-| 2P       | bxespinoza              | BENJAMÍN ALEXIS        | ESPINOZA           | ROJAS              |
-| 3A       | vjuri23                 | VALENTINA ELIZABETH    | JURI               | CABELLO            |
-| 3B       | eiacobelli              | MARÍA EMILIA           | IACOBELLI          | ETCHEBERRY         |
-| 3C       | ignaverb                | IGNACIO                | VERGARA            | BRIONES            |
-| 3D       | DavidTroncoso           | DAVID NAZARENO         | TRONCOSO           | MORENO             |
-| 3E       | Eduuuuuuuuuuuuuuuuuuuuu | EDUARDO VICENTE        | SOTO               | ROJAS              |
-| 3F       | diegobas10              | DIEGO ALEJANDRO        | BASCUÑÁN           | MUÑOZ              |
-| 3G       | cron53                  | CRISTÓBAL JURGEN       | ROMÁN              | KUNZE              |
-| 3H       | joaqvelez               | JOAQUIN ANDRES         | VELEZ              | VEGA               |
-| 3I       | LunaGarces              | LUNA MAILEN            | GARCÉS             | ROCHA              |
-| 3J       | tperezv2004             | TOMÁS IGNACIO          | PÉREZ              | VERGARA            |
-| 3K       | DBena8                  | DIEGO IGNACIO          | BENAVENTE          | FERNÁNDEZ          |
-| 3L       | LukasCarvallo           | LUKAS                  | CARVALLO           | RAUFF              |
-| 3M       | macaceres2              | MANUEL ANTONIO         | CÁCERES            | MORALES            |
-| 3N       | MariaPazDubo            | MARÍA PAZ              | DUBO               | NORAMBUENA         |
-| 3O       | Jorojojojo23            | JOSÉ MIGUEL            | BARRERA            | STUVEN             |
-| 3P       | SofiaLlanos             | SOFÍA ESPERANZA        | LLANOS             | SILVA              |
-| 4A       | CarlangaUC              | CARLOS FELIPE          | OLGUÍN             | COLOMA             |
-| 4B       | VAranguiz-P             | VALENTINA ANDREA       | ARÁNGUIZ           | PUENTES            |
-| 4C       | AlexanderLeyton         | ALEXANDER ALBERTO      | LEYTON             | DROGUETT           |
-| 4D       | FeZega                  | SEBASTIÁN ALEXIS       | FERNÁNDEZ          | ZÚÑIGA             |
-| 4E       | sweiffenbach            | SOFÍA                  | WEIFFENBACH        | VIVES              |
-| 4F       | NicolasBenavides        | NICOLÁS RODRIGO        | BENAVIDES          | PELLIZA            |
-| 4G       | Sersuna                 | CLEMENTE               | VELASCO            | VELASCO            |
-| 4H       | imoyam                  | IGNACIO ANDRÉS         | MOYA               | MORALES            |
-| 4I       | spoblete44              | SIMÓN ALEJANDRO        | POBLETE            | MEDINA             |
-| 4J       | sebamusea               | SEBASTIÁN              | MUSE               | ANDAUR             |
-| 4K       | fchiapped               | FRANCO ANDRÉS          | CHIAPPE            | DONOSO             |
-| 4L       | ggmirandac              | GABRIEL IGNACIO        | MIRANDA            | CONTRERAS          |
-| 4M       | lnatero                 | LUCAS ARIEL            | NATERO             | SILVA              |
-| 4N       | AntonioEscobar01        | ANTONIO IGNACIO        | ESCOBAR            | ROBERTSON          |
-| 4O       | Martinviald             | MARTÍN JOSÉ            | VIAL               | DÍAZ               |
-| 4P       | Nayco-u                 | NICOLÁS ESTEBAN        | SEGUEL             | ARDILES            |
-| 5A       | Rajmi2110               | SEBASTIÁN IGNACIO      | PLAZA              | RADIC              |
-| 5B       | MacaaSilva              | MACARENA MONSERRAT     | SILVA              | FIGUEROA           |
-| 5C       | pedrocallejas           | PEDRO PABLO            | CALLEJAS           | TORRES             |
-| 5D       | ktherine0               | KATHERINE CATONI       | CATONI             | CAÑETE             |
-| 5E       | Valix42                 | IGNACIO ANTONIO        | LEIVA              | MARTÍNEZ           |
-| 5F       | MoraOss                 | JAVIER ANDRÉS          | MORA               | OSSES              |
-| 5G       | NicoBermedo             | NICOLÁS ALEJANDRO      | BERMEDO            | DOMÍNGUEZ          |
-| 5H       | andry-19                | ANDRÉS IGNACIO         | GUEVARA            | CARVALLO           |
-| 5I       | sebacamposdavis         | SEBASTIÁN IGNACIO      | CAMPOS             | DAVIS              |
-| 5J       | Bsgodoy                 | BENJAMÍN ANDRÉS        | GODOY              | AVILÉS             |
-| 5K       | JuanpaTC                | JUAN PABLO             | TAPIA              | CRUZ               |
-| 5L       | Benhacks300             | BENJAMIN ISMAEL        | RUIZ               | SALVATIERRA        |
-| 5M       | CristopherAlexis        | CRISTOPHER ALEXIS      | HERRERA            | MENA               |
-| 5N       | linfantek               | LUZ MARÍA              | INFANTE            | KREBS              |
-| 5O       | Benjamin0jeda           | BENJAMÍN ANDRÉS        | OJEDA              | SANDOVAL           |
-| 5P       | PauRovira1              | PAU                    | ROVIRA             | BÓRQUEZ            |
-| 6A       | sebac418                | SEBASTIAN ANDRES       | CARMONA            | LOPEZ              |
-| 6B       | Karlamunoz14            | KARLA IGNACIA          | MUÑOZ              | ARÉVALO            |
-| 6C       | mastete12               | MATÍAS VICENTE         | ASTETE             | PINEDA             |
-| 6D       | JpOlivares08            | JUAN PABLO             | OLIVARES           | OYANEDEL           |
-| 6E       | AlejandraBeas           | ALEJANDRA BELÉN        | BEAS               | NAVARRO            |
-| 6F       | Afibla                  | ANTONIA PAZ            | FIBLA              | LARA               |
-| 6G       | tebi01                  | ESTEBAN IGNACIO        | BEROS              | GARCIAS            |
-| 6H       | Flo-aq                  | FLORENCIA JESÚS        | AQUEVEQUE          | SAAVEDRA           |
-| 6I       | m4rkvr                  | MARK ANDRÉS            | VON RIEGEN         | ESPINOZA           |
-| 6J       | javisanh                | JAVIERA ISIDORA        | SANHUEZA           | PASTÉN             |
-| 6K       | ShayeGoldbaum           | SHAYE DAN              | GOLDBAUM           | ROIZEN             |
-| 6L       | MatiasOlivaAravena      | MATÍAS BASTIÁN         | OLIVA              | ARAVENA            |
-| 6M       | Martoxp                 | MARTÍN ESTEBAN         | POBLETE            | ROJAS              |
-| 6N       | mmmrojasmuller          | MARTÍN                 | ROJAS              | MÜLLER             |
-| 6O       | R0RRO                   | JOSÉ MANUEL            | RODRÍGUEZ          | GRIFFIN            |
-| 6P       | Ferier                  | DAVID HERNÁN           | ALMONACID          | HORMAZÁBAL         |
-| 7A       | FraMqueli               | FRANCO LEONARDO        | MONTALBA           | LEAL               |
-| 7B       | JosefaHi                | JOSEFA ANASTASIA       | CAMPILLAY          | FONCEA             |
-| 7C       | Coder-Mushroom          | MATÍAS ALONSO          | ESPINOSA           | GARCÍA             |
-| 7D       | domingoaraya            | DOMINGO                | ARAYA              | CORREA             |
-| 7E       | andresreopo             | ANDRÉS FELIPE          | GARCÍA             | OYUELA             |
-| 7F       | cataarenas              | CATALINA IGNACIA       | ARENAS             | ROZIC              |
-| 7G       | j0secr                  | JOSÉ LUIS              | CUBILLOS           | RUIZ               |
-| 7H       | Br0nhg                  | BRUNO JOAQUÍN          | DANIEL             | MUÑOZ              |
-| 7I       | Hidalg03                | DANIEL ALONSO          | HIDALGO            | VERGARA            |
-| 7J       | alexiisvs               | ALEXIS SEBASTIAN       | VEGA               | SEGOVIA            |
-| 7K       | JuAndresGit             | JUAN ANDRÉS            | MUÑOZ              | SOLANO             |
-| 7L       | Gaspar1011              | GASPAR                 | IDUYA              | SÁNCHEZ            |
-| 7M       | AntonioVenegas          | ANTONIO ALBERTO        | VENEGAS            | BAEZ               |
-| 7N       | pablolagosE             | PABLO ANDRÉS           | LAGOS              | EGNEM              |
-| 7O       | PelayoF                 | PELAYO                 | FERNÁNDEZ          | RICHARDS           |
-| 7P       | RGutierrez21            | ROBERTO IGNACIO        | GUTIÉRREZ          | RIVERA             |
-| 8A       | RHarringui              | RODRIGO GABRIEL        | HARRISON           | JOHNSON            |
-| 8B       | fvm2                    | FELIPE IGNACIO         | VALDERRAMA         | MUÑOZ              |
-| 8C       | chichitaocss            | ANAÍS JAVIERA          | NEIRA              | ZÚÑIGA             |
-| 8D       | Deadhabbo               | JAVIER ESTEBAN         | VILLEGAS           | URIBE              |
-| 8E       | Santuber                | RAIMUNDO ANDRÉS        | SANTUBER           | BUSTOS             |
-| 8F       | ignaciaguerra           | MARÍA IGNACIA          | GUERRA             | ESPÍNOLA           |
-| 8G       | noamsito                | NOAM                   | TANAKA             | VIEIRA             |
-| 8H       | andresinfantep          | ANDRÉS VICENTE         | INFANTE            | PÉREZ              |
-| 8I       | paulasm28               | PAULA ANAÍ LORETO      | SANDOVAL           | MUÑOZ              |
-| 8J       | maromero-21             | MARTÍN ALONSO          | ROMERO             | VALLADARES         |
+| 1C       | RHarringui              | RODRIGO GABRIEL        | HARRISON           | JOHNSON            |
+| 1D       | Sersuna                 | CLEMENTE               | VELASCO            | VELASCO            |
+| 1E       | yisidoramolina          | ISIDORA CONSTANZA      | MOLINA             | BRIONES            |
+| 1F       | JaimeUC                 | JAIME GABRIEL BENJAMIN | SAMSÓ              | TOGNOLA            |
+| 1G       | sebacamposdavis         | SEBASTIÁN IGNACIO      | CAMPOS             | DAVIS              |
+| 1H       | mastete12               | MATÍAS VICENTE         | ASTETE             | PINEDA             |
+| 1I       | Santuber                | RAIMUNDO ANDRÉS        | SANTUBER           | BUSTOS             |
+| 1J       | imoyam                  | IGNACIO ANDRÉS         | MOYA               | MORALES            |
+| 1K       | PelayoF                 | PELAYO                 | FERNÁNDEZ          | RICHARDS           |
+| 1L       | NicoBermedo             | NICOLÁS ALEJANDRO      | BERMEDO            | DOMÍNGUEZ          |
+| 1M       | R0RRO                   | JOSÉ MANUEL            | RODRÍGUEZ          | GRIFFIN            |
+| 1N       | joaqvelez               | JOAQUIN ANDRES         | VELEZ              | VEGA               |
+| 1O       | AlexanderLeyton         | ALEXANDER ALBERTO      | LEYTON             | DROGUETT           |
+| 1P       | vicentefosk             | VICENTE                | FOSK               | SAUER              |
+| 2A       | Valix42                 | IGNACIO ANTONIO        | LEIVA              | MARTÍNEZ           |
+| 2B       | Flo-aq                  | FLORENCIA JESÚS        | AQUEVEQUE          | SAAVEDRA           |
+| 2C       | Gper23                  | GUILAD                 | PERERA             | CARO               |
+| 2D       | andresinfantep          | ANDRÉS VICENTE         | INFANTE            | PÉREZ              |
+| 2E       | Eduuuuuuuuuuuuuuuuuuuuu | EDUARDO VICENTE        | SOTO               | ROJAS              |
+| 2F       | CristopherAlexis        | CRISTOPHER ALEXIS      | HERRERA            | MENA               |
+| 2G       | Deadhabbo               | JAVIER ESTEBAN         | VILLEGAS           | URIBE              |
+| 2H       | ignaciaguerra           | MARÍA IGNACIA          | GUERRA             | ESPÍNOLA           |
+| 2I       | MoraOss                 | JAVIER ANDRÉS          | MORA               | OSSES              |
+| 2J       | Benjamin0jeda           | BENJAMÍN ANDRÉS        | OJEDA              | SANDOVAL           |
+| 2K       | Bsgodoy                 | BENJAMÍN ANDRÉS        | GODOY              | AVILÉS             |
+| 2L       | SofiaLlanos             | SOFÍA ESPERANZA        | LLANOS             | SILVA              |
+| 2M       | diegobas10              | DIEGO ALEJANDRO        | BASCUÑÁN           | MUÑOZ              |
+| 2N       | dgcaracci               | DIEGO GERMÁN           | CARACCI            | SILVA              |
+| 2O       | tperezv2004             | TOMÁS IGNACIO          | PÉREZ              | VERGARA            |
+| 2P       | ignaverb                | IGNACIO                | VERGARA            | BRIONES            |
+| 3A       | m4rkvr                  | MARK ANDRÉS            | VON RIEGEN         | ESPINOZA           |
+| 3B       | noamsito                | NOAM                   | TANAKA             | VIEIRA             |
+| 3C       | DBena8                  | DIEGO IGNACIO          | BENAVENTE          | FERNÁNDEZ          |
+| 3D       | Coder-Mushroom          | MATÍAS ALONSO          | ESPINOSA           | GARCÍA             |
+| 3E       | FeZega                  | SEBASTIÁN ALEXIS       | FERNÁNDEZ          | ZÚÑIGA             |
+| 3F       | Br0nhg                  | BRUNO JOAQUÍN          | DANIEL             | MUÑOZ              |
+| 3G       | msanchezk               | MARTINA BÁRBARA ANGELA | SÁNCHEZ            | KANNEGIESSER       |
+| 3H       | fchiapped               | FRANCO ANDRÉS          | CHIAPPE            | DONOSO             |
+| 3I       | fvm2                    | FELIPE IGNACIO         | VALDERRAMA         | MUÑOZ              |
+| 3J       | CarlangaUC              | CARLOS FELIPE          | OLGUÍN             | COLOMA             |
+| 3K       | cataarenas              | CATALINA IGNACIA       | ARENAS             | ROZIC              |
+| 3L       | AntonioVenegas          | ANTONIO ALBERTO        | VENEGAS            | BAEZ               |
+| 3M       | antsalieri              | ÁLVARO EMILIO          | MELLA              | ARAYA              |
+| 3N       | MatiasOlivaAravena      | MATÍAS BASTIÁN         | OLIVA              | ARAVENA            |
+| 3O       | ktherine0               | KATHERINE CATONI       | CATONI             | CAÑETE             |
+| 3P       | maromero-21             | MARTÍN ALONSO          | ROMERO             | VALLADARES         |
+| 4A       | DavidTroncoso           | DAVID NAZARENO         | TRONCOSO           | MORENO             |
+| 4B       | j0secr                  | JOSÉ LUIS              | CUBILLOS           | RUIZ               |
+| 4C       | spoblete44              | SIMÓN ALEJANDRO        | POBLETE            | MEDINA             |
+| 4D       | TwoB-2B                 | BASTIAN IGNACIO        | BAEZ               | OSES               |
+| 4E       | tebi01                  | ESTEBAN IGNACIO        | BEROS              | GARCIAS            |
+| 4F       | JuAndresGit             | JUAN ANDRÉS            | MUÑOZ              | SOLANO             |
+| 4G       | katerinareyes           | KATERINA PAZ ANDREA    | REYES              | SALAS              |
+| 4H       | andry-19                | ANDRÉS IGNACIO         | GUEVARA            | CARVALLO           |
+| 4I       | javisanh                | JAVIERA ISIDORA        | SANHUEZA           | PASTÉN             |
+| 4J       | topc01                  | TOMÁS                  | PFINGSTHORN        | CUEVAS             |
+| 4K       | FraMqueli               | FRANCO LEONARDO        | MONTALBA           | LEAL               |
+| 4L       | czsanchez               | CAMILA CONSTANZA       | SÁNCHEZ            | SAAVEDRA           |
+| 4M       | edupavez                | EDUARDO IVÁN ENRIQUE   | PAVEZ              | ASPE               |
+| 4N       | Ferier                  | DAVID HERNÁN           | ALMONACID          | HORMAZÁBAL         |
+| 4O       | rocimarquez             | ROCÍO ANTONIA          | MÁRQUEZ            | CORREA             |
+| 4P       | mmmrojasmuller          | MARTÍN                 | ROJAS              | MÜLLER             |
+| 5A       | constanzarojasch        | CONSTANZA SOFÍA        | ROJAS              | CHAPARRO           |
+| 5B       | Benhacks300             | BENJAMIN ISMAEL        | RUIZ               | SALVATIERRA        |
+| 5C       | Afibla                  | ANTONIA PAZ            | FIBLA              | LARA               |
+| 5D       | NicolasBenavides        | NICOLÁS RODRIGO        | BENAVIDES          | PELLIZA            |
+| 5E       | lnatero                 | LUCAS ARIEL            | NATERO             | SILVA              |
+| 5F       | domingoaraya            | DOMINGO                | ARAYA              | CORREA             |
+| 5G       | LunaGarces              | LUNA MAILEN            | GARCÉS             | ROCHA              |
+| 5H       | alexiisvs               | ALEXIS SEBASTIAN       | VEGA               | SEGOVIA            |
+| 5I       | bxespinoza              | BENJAMÍN ALEXIS        | ESPINOZA           | ROJAS              |
+| 5J       | chichitaocss            | ANAÍS JAVIERA          | NEIRA              | ZÚÑIGA             |
+| 5K       | scisternast             | SOFÍA                  | CISTERNAS          | TAMARGO            |
+| 5L       | ignaciolaval            | IGNACIO BENJAMÍN       | LAVAL              | ROMÁN              |
+| 5M       | andresreopo             | ANDRÉS FELIPE          | GARCÍA             | OYUELA             |
+| 5N       | RGutierrez21            | ROBERTO IGNACIO        | GUTIÉRREZ          | RIVERA             |
+| 5O       | sebamusea               | SEBASTIÁN              | MUSE               | ANDAUR             |
+| 5P       | FranciscoCastroZ        | FRANCISCO JAVIER       | CASTRO             | ZÁRATE             |
+| 6A       | sofiafuentess           | SOFÍA CONSTANZA        | FUENTES            | FIGUEROA           |
+| 6B       | Martinviald             | MARTÍN JOSÉ            | VIAL               | DÍAZ               |
+| 6C       | terecarvallo            | MARÍA TERESA           | CARVALLO           | VALENZUELA         |
+| 6D       | macaceres2              | MANUEL ANTONIO         | CÁCERES            | MORALES            |
+| 6E       | sweiffenbach            | SOFÍA                  | WEIFFENBACH        | VIVES              |
+| 6F       | Jorojojojo23            | JOSÉ MIGUEL            | BARRERA            | STUVEN             |
+| 6G       | Nayco-u                 | NICOLÁS ESTEBAN        | SEGUEL             | ARDILES            |
+| 6H       | Gcamposbriceno          | GABRIEL LUIS           | CAMPOS             | BRICEÑO            |
+| 6I       | Hidalg03                | DANIEL ALONSO          | HIDALGO            | VERGARA            |
+| 6J       | AntonioEscobar01        | ANTONIO IGNACIO        | ESCOBAR            | ROBERTSON          |
+| 6K       | Angel-Ros               | LUIS ANGEL             | ROSALES            | CUEVAS             |
+| 6L       | ShayeGoldbaum           | SHAYE DAN              | GOLDBAUM           | ROIZEN             |
+| 6M       | AlejandraBeas           | ALEJANDRA BELÉN        | BEAS               | NAVARRO            |
+| 6N       | LukasCarvallo           | LUKAS                  | CARVALLO           | RAUFF              |
+| 6O       | pablolagosE             | PABLO ANDRÉS           | LAGOS              | EGNEM              |
+| 6P       | Rajmi2110               | SEBASTIÁN IGNACIO      | PLAZA              | RADIC              |
+| 7A       | JuanpaTC                | JUAN PABLO             | TAPIA              | CRUZ               |
+| 7B       | PauRovira1              | PAU                    | ROVIRA             | BÓRQUEZ            |
+| 7C       | cron53                  | CRISTÓBAL JURGEN       | ROMÁN              | KUNZE              |
+| 7D       | eiacobelli              | MARÍA EMILIA           | IACOBELLI          | ETCHEBERRY         |
+| 7E       | Martoxp                 | MARTÍN ESTEBAN         | POBLETE            | ROJAS              |
+| 7F       | lucascovav              | LUCAS ANDRÉS           | COVARRUBIAS        | VARGAS             |
+| 7G       | linfantek               | LUZ MARÍA              | INFANTE            | KREBS              |
+| 7H       | alecamposleyton         | ALEJANDRA PATRICIA     | CAMPOS             | LEYTON             |
+| 7I       | MacaaSilva              | MACARENA MONSERRAT     | SILVA              | FIGUEROA           |
+| 7J       | JosefaHi                | JOSEFA ANASTASIA       | CAMPILLAY          | FONCEA             |
+| 7K       | Niickkoo                | NICOLÁS IGNACIO        | CARMONA            | CARVAJAL           |
+| 7L       | Vguinez                 | VICENTE ANTONIO        | GUÍÑEZ             | ESCOBAR            |
+| 7M       | paulasm28               | PAULA ANAÍ LORETO      | SANDOVAL           | MUÑOZ              |
+| 7N       | VAranguiz-P             | VALENTINA ANDREA       | ARÁNGUIZ           | PUENTES            |
+| 7O       | michebordoni            | MICHELA PATRICIA       | BORDONI            | GALLEGUILLOS       |
+| 7P       | Gaspar1011              | GASPAR                 | IDUYA              | SÁNCHEZ            |
+| 8A       | vjuri23                 | VALENTINA ELIZABETH    | JURI               | CABELLO            |
+| 8B       | BenJofre27              | BENJAMÍN ANDRÉS        | JOFRÉ              | FLORES             |
+| 8C       | ggmirandac              | GABRIEL IGNACIO        | MIRANDA            | CONTRERAS          |
+| 8D       | JpOlivares08            | JUAN PABLO             | OLIVARES           | OYANEDEL           |
+| 8E       | MumoCrack               | RAIMUNDO JOSÉ          | VIAL               | CRUZ               |
+| 8F       | pedrocallejas           | PEDRO PABLO            | CALLEJAS           | TORRES             |
+| 8G       | sebac418                | SEBASTIAN ANDRES       | CARMONA            | LOPEZ              |
+| 8H       | dgarciam9               | DIEGO JAVIER           | GARCÍA             | MATTE              |
+| 8I       | Karlamunoz14            | KARLA IGNACIA          | MUÑOZ              | ARÉVALO            |
+| 8J       | MariaPazDubo            | MARÍA PAZ              | DUBO               | NORAMBUENA         |
 
 # Seccion 2
 
