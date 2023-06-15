@@ -1,0 +1,21 @@
+id_producto,nombre,precio,pasillo,medida,unidad_medida
+1,Arroz,1990,Pasillo 1,1000,gr
+2,Leche,1190,Pasillo 2,1000,ml
+3,Manzanas,990,Pasillo 3,500,gr
+4,Pan integral,2490,Pasillo 4,500,gr
+5,Aceite de oliva,5990,Pasillo 5,500,ml
+6,Yogur,790,Pasillo 2,200,gr
+7,Papas,1490,Pasillo 3,1000,gr
+8,Jamón,2990,Pasillo 4,200,gr
+9,Pan de molde,1490,Pasillo 4,500,gr
+10,Salsa de tomate,990,Pasillo 5,500,ml
+11,Cebollas,790,Pasillo 3,500,gr
+12,Queso,3490,Pasillo 2,250,gr
+13,Fideos,590,Pasillo 1,500,gr
+14,Huevos,1990,Pasillo 3,12,unidades
+15,Aceitunas,2490,Pasillo 5,200,gr
+16,Tomates,1490,Pasillo 3,500,gr
+17,Mantequilla,1490,Pasillo 2,200,gr
+18,Atún,1990,Pasillo 5,200,gr
+19,Café,2990,Pasillo 1,250,gr
+20,Azúcar,990,Pasillo 4,500,gr
