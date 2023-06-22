@@ -2,6 +2,7 @@ from copy import copy
 from functools import reduce
 from itertools import groupby
 from typing import Generator
+from os.path import join
 
 from utilidades import (
     Categoria, Producto, duplicador_generadores, generador_a_lista
@@ -14,7 +15,9 @@ from utilidades import (
 
 def cargar_productos(ruta: str) -> Generator:
     # TODO: Completar
-    pass
+    archivo = open(ruta, 'r')
+    result = map(lambda char: char, archivo)
+    return Producto(result)
 
 
 def cargar_categorias(ruta: str) -> Generator:
@@ -79,3 +82,8 @@ class IteradorCarrito:
     def __next__(self):
         # TODO: Completar
         pass
+
+
+if __name__ == '__main__':
+    RUTA_PRODUCTOS = join('archivos', 'productos.csv')
+    [print(char) for char in cargar_productos(RUTA_PRODUCTOS)]
