@@ -56,7 +56,7 @@ La página de [Issues](../../issues) se utilizará como foro para preguntas.
 
 | Nombre            | Sección | Github      | Email                     |
 |-------------------|---------|-------------|---------------------------|
-| Hernán Valdivieso | 1       | @Hernan4444 | hvaldivieso@ing.puc.cl    |
+| Hernán Valdivieso | 1       | @Hernan4444 | hfvaldivieso@puc.cl       |
 | Daniela Concha    | 2       | @lily416    | daconcha@uc.cl            |
 | Dante Pinto       | 3       | @Drpinto1   | drpinto1@uc.cl            |
 | Joaquín Tagle     | 4       | @jtagle2    | jtagle2@uc.cl             |
